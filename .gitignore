@@ -1,0 +1,5 @@
+test-data/
+.vscode/
+dist
+session_audio_kit/config.ini
+session_audio_kit/__pycache__

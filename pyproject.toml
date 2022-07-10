@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "session_audio_kit"
+version = "0.1.0"
+description = "a tool to merge tracks and concatenate recordings from craig and other similar tools"
+authors = ["Your Name <you@example.com>"]
+license = "AGPL v3"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+ffmpeg-python = "^0.2.0"
+
+[tool.poetry.dev-dependencies]
+black = "^22.3.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
