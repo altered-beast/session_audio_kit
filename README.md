@@ -17,7 +17,7 @@ pip install git+https://github.com/alteredbeast/session_audio_kit.git#egg=sessio
 <!-- TODO: add output an stuff? -->
 
 ```bash
-python -m session_audio_kit -o "session_recordings/" -r "session_recordings/raw/" -n "session1!" -a "session-recording-part-1" "session-recording-part2"
+python -m session_audio_kit -o "session_recordings/" -r "session_recordings/raw/" -n "session1!" -a "session-recording-part-1.zip" "session-recording-part2.gzip"
 ```
 
 ## Options
