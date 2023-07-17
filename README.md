@@ -8,10 +8,6 @@ clone the repo then use the package manager [pip](https://pip.pypa.io/en/stable/
 
 <!-- TODO: add proper url -->
 
-```bash
-pip install git+https://github.com/alteredbeast/session_audio_kit.git#egg=session_audio_kit
-```
-
 ## Usage
 
 <!-- TODO: add output an stuff? -->
